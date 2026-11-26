@@ -21,7 +21,7 @@ digital detective is a beginner project about computer systems terminal commands
 | 5 - number systems and data representation | complete | [mission-05-numbers-data](mission-05-numbers-data/readme.md) |
 | 6 - version control and collaboration | complete | [mission-06](mission-06/readme.md) |
 | 7 - networks and communication | complete | [mission-07](mission-07/readme.md) |
-| 8 - final review and submission | pending | [mission-08](mission-08/readme.md) |
+| 8 - final review and submission | complete | [mission-08](mission-08/readme.md) |
 
 ## completion summary
 
@@ -33,10 +33,23 @@ digital detective is a beginner project about computer systems terminal commands
 - mission 5: solved number conversions tested python functions and built number converter see [mission 5 readme](mission-05-numbers-data/readme.md)
 - mission 6: practiced git staging commits branch update-about and pull request merge see [mission 6 readme](mission-06/readme.md)
 - mission 7: explained network concepts tested reachability and dns and traced web request flow see [mission 7 readme](mission-07/readme.md)
+- mission 8: verified all mission folders checked evidence links and completed final review checklist see [mission 8 readme](mission-08/readme.md)
 
-## mission commit rule note
+## how to run the number converter
 
-each mission was completed documented and committed separately with its own meaningful commit message
+run python converter from repository root:
+
+```sh
+python3 mission-05-numbers-data/number_converter.py
+```
+
+or run bash arithmetic converter:
+
+```sh
+bash mission-05-numbers-data/number_converter.sh
+```
+
+enter a positive decimal number when prompted to see binary and hexadecimal outputs
 
 ## my learning
 
@@ -45,3 +58,9 @@ each mission was completed documented and committed separately with its own mean
 - i learned what an operating system does to manage cpu memory and permissions
 - i learned the difference between compiled and interpreted languages
 - i learned how decimal numbers convert to binary and hexadecimal using division and remainders
+- i learned how git tracks history and how branches and pull requests help in teamwork
+- i learned how dns resolves domain names and how packets travel across networks to load websites
+
+## mission commit rule note
+
+each mission was completed documented and committed separately with its own meaningful commit message
