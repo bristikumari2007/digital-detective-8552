@@ -35,3 +35,11 @@ digital detective is a beginner project about computer systems terminal commands
 ## mission commit rule note
 
 each mission was completed documented and committed separately with its own meaningful commit message
+
+## my learning
+
+- i learned how input processing output and storage work together in a computer
+- i learned how to use terminal commands to manage files and folders safely
+- i learned what an operating system does to manage cpu memory and permissions
+- i learned the difference between compiled and interpreted languages
+- i learned how decimal numbers convert to binary and hexadecimal using division and remainders
