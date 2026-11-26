@@ -16,7 +16,7 @@ digital detective is a beginner project about computer systems terminal commands
 | 0 - create your github workspace | complete | [mission-00-github-workspace](mission-00-github-workspace/readme.md) |
 | 1 - know your computer | complete | [mission-01](mission-01/readme.md) |
 | 2 - terminal and file management | complete | [mission-02](mission-02/readme.md) |
-| 3 - operating system processes paths and permissions | pending | [mission-03](mission-03/readme.md) |
+| 3 - operating system processes paths and permissions | complete | [mission-03](mission-03/readme.md) |
 | 4 - compilers and interpreters | pending | [mission-04](mission-04/readme.md) |
 | 5 - number systems and data representation | pending | [mission-05-numbers-data](mission-05-numbers-data/readme.md) |
 | 6 - version control and collaboration | pending | [mission-06](mission-06/readme.md) |
@@ -28,6 +28,7 @@ digital detective is a beginner project about computer systems terminal commands
 - mission 0: created github workspace mission folders and initial files see [mission 0 evidence](evidence/mission-00-setup.md)
 - mission 1: documented ipos cycle hardware software and everyday computer systems see [mission 1 readme](mission-01/readme.md)
 - mission 2: practiced terminal navigation file operations pipes and package manager checks see [mission 2 readme](mission-02/readme.md)
+- mission 3: inspected os version processes storage and permissions and listed os responsibilities see [mission 3 readme](mission-03/readme.md)
 
 ## mission commit rule note
 
