@@ -18,7 +18,7 @@ digital detective is a beginner project about computer systems terminal commands
 | 2 - terminal and file management | complete | [mission-02](mission-02/readme.md) |
 | 3 - operating system processes paths and permissions | complete | [mission-03](mission-03/readme.md) |
 | 4 - compilers and interpreters | complete | [mission-04](mission-04/readme.md) |
-| 5 - number systems and data representation | pending | [mission-05-numbers-data](mission-05-numbers-data/readme.md) |
+| 5 - number systems and data representation | complete | [mission-05-numbers-data](mission-05-numbers-data/readme.md) |
 | 6 - version control and collaboration | pending | [mission-06](mission-06/readme.md) |
 | 7 - networks and communication | pending | [mission-07](mission-07/readme.md) |
 | 8 - final review and submission | pending | [mission-08](mission-08/readme.md) |
@@ -30,6 +30,7 @@ digital detective is a beginner project about computer systems terminal commands
 - mission 2: practiced terminal navigation file operations pipes and package manager checks see [mission 2 readme](mission-02/readme.md)
 - mission 3: inspected os version processes storage and permissions and listed os responsibilities see [mission 3 readme](mission-03/readme.md)
 - mission 4: ran python program and compared compilers with interpreters see [mission 4 readme](mission-04/readme.md)
+- mission 5: solved number conversions tested python functions and built number converter see [mission 5 readme](mission-05-numbers-data/readme.md)
 
 ## mission commit rule note
 
