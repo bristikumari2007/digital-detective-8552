@@ -20,7 +20,7 @@ digital detective is a beginner project about computer systems terminal commands
 | 4 - compilers and interpreters | complete | [mission-04](mission-04/readme.md) |
 | 5 - number systems and data representation | complete | [mission-05-numbers-data](mission-05-numbers-data/readme.md) |
 | 6 - version control and collaboration | complete | [mission-06](mission-06/readme.md) |
-| 7 - networks and communication | pending | [mission-07](mission-07/readme.md) |
+| 7 - networks and communication | complete | [mission-07](mission-07/readme.md) |
 | 8 - final review and submission | pending | [mission-08](mission-08/readme.md) |
 
 ## completion summary
@@ -32,6 +32,7 @@ digital detective is a beginner project about computer systems terminal commands
 - mission 4: ran python program and compared compilers with interpreters see [mission 4 readme](mission-04/readme.md)
 - mission 5: solved number conversions tested python functions and built number converter see [mission 5 readme](mission-05-numbers-data/readme.md)
 - mission 6: practiced git staging commits branch update-about and pull request merge see [mission 6 readme](mission-06/readme.md)
+- mission 7: explained network concepts tested reachability and dns and traced web request flow see [mission 7 readme](mission-07/readme.md)
 
 ## mission commit rule note
 
